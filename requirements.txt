@@ -1,2 +1,3 @@
 geopy>=1.11.0
+Geohash==1.0
 jackrabbit
